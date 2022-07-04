@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% load staticfiles %}
+
+{% block title %}
+  GYM EDGE
+{% endblock %}
+
+{% block without_container %}
+<div class="container-fluid" id="homepage_after_login" style="padding: 0; height: 90%">
+  {% if wallpaper.photo %}
+  <img src="{{ wallpaper.photo }}" class="img-fluid">
+  {% else %}
+  <img src="{% static 'images/home.png' %}" class="img-fluid" alt="">
+  {% endif %}
+</div>
+{% endblock %}

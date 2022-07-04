@@ -1,0 +1,9 @@
+Django==2.2.7
+django-bootstrap-datepicker-plus==2.0.0
+mysqlclient==1.4.6
+Pillow==7.1.1
+python-datauri==0.2.6
+python-dateutil==2.7.0
+pytz==2019.3
+six==1.14.0
+sqlparse==0.3.1
