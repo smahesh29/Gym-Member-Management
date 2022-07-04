@@ -14,4 +14,5 @@ A Gym Member Management System using Django. A simple gym member manager to keep
     <li><b>Django: </b>Project has been developed over the Django Framework</li>
 </ul>
 
-<h3>Buy the Project from <a href = "https://sourcecodetrader.com/catalogue/gym-member-management-system_4/"> here</a></h3>
+# Installation:
+Refer User Guide document for Installing and Running the project in your system. If you find any difficulty during Installation you can reach me via <a target="_blank" href="https://linkedin.com/in/smahesh29">LinkedIn</a>.</li>
